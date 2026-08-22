@@ -3,4 +3,8 @@ Lecture materials will be provided here, probably on 25 August 2026 or soon afte
 
 Short URL for this file: https://s.gwdg.de/ptjpe4
 
+QR code for this file:
+
+[![Beschreibung](assets/qr.png)](assets/qr.png)
+
 
