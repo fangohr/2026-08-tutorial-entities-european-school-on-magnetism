@@ -6,7 +6,7 @@ platforms = ["osx-arm64", "osx-64", "linux-64", "win-64"]
 version = "0.1.0"
 
 [tasks]
-notebook = "jupyter-lab notebooks/1-compute-speed-from-entities.ipynb notebooks/2-units.ipynb notebooks/3-entities.ipynb notebooks/3-entity-collection.ipynb notebooks/4-raw-to-entitycollection.ipynb"
+notebook = "jupyter-lab notebooks/1-compute-speed-from-entities.ipynb notebooks/2-units.ipynb notebooks/3-entities.ipynb notebooks/3-entity-collection.ipynb notebooks/4-raw-to-entitycollection.ipynb notebooks/index.ipynb"
 
 [dependencies]
 astropy = ">=8.0.1,<9"
