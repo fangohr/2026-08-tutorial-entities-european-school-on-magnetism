@@ -1,7 +1,11 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fangohr/2026-08-tutorial-entities-european-school-on-magnetism/HEAD?urlpath=%2Fdoc%2Ftree%2Fnotebooks/index.ipynb)
 
 # 2026-08-tutorial-entities-european-school-on-magnetism
-Lecture materials will be provided here, probably on 25 August 2026 or soon after.
+Lecture materials, including executed notebooks, will be provided here, probably on 25 August 2026 or soon after.
+
+Prelimenary files:
+- [Slides used in lecture](slides.pdf)
+- [Jupyter notebooks](notebooks)
 
 # Interactive execution of notebooks in browser (in the cloud - no local installation)
 
