@@ -4,9 +4,6 @@
 
 As delivered during [European School on Magnetism](https://magnetism.eu/358-esm-2026-school.htm) in August 2026.
 
-Lecture materials, including executed notebooks, will be provided here, probably on 25 August 2026 or soon after.
-
-Prelimenary files:
 - [Slides used in lecture](slides.pdf)
 - Jupyter notebooks ([ipynb files](notebooks), [interactive execution in browser](https://mybinder.org/v2/gh/fangohr/2026-08-tutorial-entities-european-school-on-magnetism/HEAD?urlpath=%2Fdoc%2Ftree%2Fnotebooks/index.ipynb)
 
